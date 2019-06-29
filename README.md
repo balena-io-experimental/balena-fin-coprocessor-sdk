@@ -1,1 +1,3 @@
-# balena-fin-coprocessor-sdk
+# Balena Coprocessor Library
+
+
