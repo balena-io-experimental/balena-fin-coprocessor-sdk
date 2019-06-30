@@ -53,6 +53,7 @@ include(${CMAKE_CURRENT_LIST_DIR}/../cmsis/cmsis.cmake)
 include(${CMAKE_CURRENT_LIST_DIR}/../emlib/emlib.cmake)
 include(${CMAKE_CURRENT_LIST_DIR}/../emdrv/emdrv.cmake)
 include(${CMAKE_CURRENT_LIST_DIR}/../balena/balena.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/../bluetooth/bluetooth.cmake)
 
 # Set compiler flags
 # Common arguments
